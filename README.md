@@ -24,10 +24,10 @@ After type in the intital guess of platform positions, widths, heights and stand
 
 Here are two examples of two-platform data fitting and four-platform data fitting:
 
-- Two-Platforms Fitting
+1, Two-Platforms Fitting
 ![alt text](images/Figure2.png)
 
-- Four-Platforms Fitting
+2, Four-Platforms Fitting
 ![alt text](images/Figure3.png)
 
 Finally, click the `Save Figure and Data` button to save the fitted data, fitted parameters, and figures to the same folder
