@@ -19,3 +19,15 @@ To install this app in your matlab:
 Users need to put initial starting points for parameters of their EDX data. For examples, the parameters (c, w, h, &#963;1, &#963;2) for every peak are defined in the following images.
 
 ![alt text](images/Figure1.png)
+
+After type in the intital guess of platform positions, widths, heights and standard deviations, click `Show Fitting Curve` button to start the fitting progress. Note that the more platforms the EDX data has, the longer it takes to perform the fitting due to increase of parameters. Users can also adjust the starting point to get better fitting results.
+
+Here are two examples of two platform fitting and four platform fitting:
+
+- Two platforms fitting
+![alt text](images/Figure2.png)
+
+- Four platforms fitting
+![alt text](images/Figure3.png)
+
+Finally, click the `Save Figure and Data` button to save the fitted data, fitted parameters, and figures to the same folder
