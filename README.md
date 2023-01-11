@@ -18,4 +18,4 @@ To install this app in your matlab:
 ## Usage
 Users need to put initial starting points for parameters of their EDX data. For examples, the parameters (c, w, h, &#963;1, &#963;2) for every peak are defined in the following images.
 
-
+![alt text](images/Figure1.png)
