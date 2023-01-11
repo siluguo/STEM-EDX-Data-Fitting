@@ -11,7 +11,11 @@ Users can choose different fitting functions according to the shape of their EDX
 
 ## Installation
 To install this app in your matlab:
-<br />1, Make sure that the Matlab - `Curve Fitting Toolbox`[![matlab_logo2](https://user-images.githubusercontent.com/101215307/211877316-550998f5-e5bc-4ab3-8b8f-b9a2f3d64949.png)](https://www.mathworks.com/products/curvefitting.html) is already installed.
-<br />2, Copy the STEM EDX Fitting.mlappinstall file to your current working folder in MATLAB.
+<br />1, Make sure that the Matlab - `Curve Fitting Toolbox`[![matlab_logo2](https://user-images.githubusercontent.com/101215307/211877316-550998f5-e5bc-4ab3-8b8f-b9a2f3d64949.png)](https://www.mathworks.com/products/curvefitting.html) is already installed. 
+<br />2, Copy the STEM EDX Fitting.mlappinstall file to your current working folder in MATLAB. 
+<br />3, Right click on the file and select ‘Install’.
+
+## Usage
+Users need to put initial starting points for parameters of their EDX data. For examples, the parameters (c, w, h, &#963;1, &#963;2) for every peak are defined in the following images.
 
 
