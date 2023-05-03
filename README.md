@@ -35,4 +35,4 @@ Finally, click the `Save Figure and Data` button to save the fitted data, fitted
 ## Citation
 Please cite this code if used for publication purpose: 
 
-Guo, S. STEM EDX Data Fitting. Retrieved from (https://github.com/siluguo/STEM-EDX-Data-Fitting)
+Guo, S. STEM EDX Data Fitting (2023). Retrieved from (https://github.com/siluguo/STEM-EDX-Data-Fitting)
