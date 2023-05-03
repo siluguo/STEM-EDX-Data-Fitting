@@ -31,3 +31,6 @@ Here are two examples of two-platform data fitting and four-platform data fittin
 ![alt text](images/Figure3.png)
 
 Finally, click the `Save Figure and Data` button to save the fitted data, fitted parameters, and figures to the same folder
+
+## Citation
+Please cite this code if used for publication purpose: 
